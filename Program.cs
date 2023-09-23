@@ -21,7 +21,7 @@ namespace Laboratorio_5_ejercicio_4
             Console.Write("-> ");
             int opcion = int.Parse(Console.ReadLine());
 
-            decimal factorial = 1;
+            long factorial = 1;
 
             switch (opcion)
             {
